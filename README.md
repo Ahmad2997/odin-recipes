@@ -1,0 +1,2 @@
+This is the first project for The Odin Project. The Project is an HTML Website for simple Food-Recipes.
+In this project I practiced: Making html files and how to structure them, how to use different elements like Headings/Anchors/Images/paragraphs/Unordered and Ordered Lists.
